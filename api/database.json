@@ -1,0 +1,42 @@
+{
+    "potteries":[
+
+        {
+            "id":1,
+            "shape": "coffee mug",
+            "weight": 10,
+            "height": 3
+         },
+         {
+            "id":2,
+            "shape": "saucer",
+            "weight": 13,
+            "height": 1
+         },
+         {
+            "id":3,
+            "shape": "large bowl",
+            "weight": 20,
+            "height": 6
+         },
+         {
+            "id":4,
+            "shape": "small bowl",
+            "weight": 5,
+            "height": 3
+         },
+         {
+            "id":5,
+            "shape": "teapot",
+            "weight": 17,
+            "height": 8
+         }
+
+
+
+    ]
+
+
+
+
+}
